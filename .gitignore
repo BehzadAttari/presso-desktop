@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+output/
+candle.gif
+icon.png
+installer.iss
